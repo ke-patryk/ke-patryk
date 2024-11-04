@@ -1,6 +1,10 @@
 # Hi there 👋
-🌱 I’m currently learning **Cloud Web Development** at HyperionDev!
+- 🌱 I’m currently learning **Cloud Web Development** at HyperionDev!
+- 💬 Ask me about **Microsoft Dyanmics 365 CRM**!
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/patryk-kepinski-b43b87267/)
 
+- Meet the _**Mini-Me:**_
+  
 ![My emoji.](https://github.com/ke-patryk/ke-patryk/blob/main/New%20Note.heic)
 <!--
 **ke-patryk/ke-patryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
