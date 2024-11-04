@@ -1,4 +1,8 @@
-## Hi there 👋
+![My emoji.](https://github.com/ke-patryk/ke-patryk/blob/main/New%20Note.heic)
+
+
+# Hi there 👋
+🌱 I’m currently learning **Cloud Web Development** at HyperionDev!
 
 <!--
 **ke-patryk/ke-patryk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
